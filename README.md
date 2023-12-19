@@ -3,7 +3,7 @@ I'm @Jolvera2001 and I'm currently a student at St. Edward's University. I am cu
 
 # Interests
 I am interested in the process of software engineering as well as being able to work on projects to learn new technologies, especially with new ones coming out so frequently. My projects so far have utilized a few technologies:
-- Swift (SwiftUI and IOs development
+- Swift (SwiftUI and IOs development)
 - Firebase (Backend and DB)
 - React (Frontend Web Development with MaterialUI as styling framework)
 - Node.js (Backend Web API)
@@ -13,8 +13,8 @@ I am interested in the process of software engineering as well as being able to 
 
 # Future Prospects
 ## C# ecosystem
-I really want to learn more technologies within the C# ecosystem since they're already very connected to Azure. There are many frameworks that use C# that I'm aware of and other addons as well. My knowledge so far is:
-- .NET Maui (crossplatform development, can utilize C# markup for declarative UI)
+I really want to learn more technologies within the C# ecosystem since they're already very connected to Azure. There are many frameworks that use C# that I'm aware of. My knowledge so far is:
+- WPF (Desktop App Development)
 - Blazor (Web development using C#)
 - ASP.NET Core (Backend for Blazor or any other technology)
 
