@@ -14,27 +14,19 @@ This was my first step towards software engineering as a whole. My project was t
 May 2024 - August 2024
 This internship has been a more team oriented experience since I'm now contributing to a very large codebase compared to my last experience where I worked on a solo project. The language I'm working with is C# again, but now I'm having to deal with more older versions of .net and other technologies considered "old". So far, I've been able to finish 2 tasks relating to backend features and Functional Testing with 1 that is currently under review. My most significant outcomes have been what I've learned so far, which is more about how a system is architected and designed as a long term solution, and it has been inspiring me to learn more design principles relating to software development, like Inversion of Control and so on. 
 
-## Technologies I Work With
-So this is an updated list of what I've been using for my projects so far. Before I just sort of threw out a lot of things that I've used since I didn't really have much, but after working on a few things, I've come to really center around certain technologies and languages that have caught my interest in one way or another. I've primarily leaned towards a lot of backend related development, but I also like doing things like desktop development and some frontend development. I've always worked on a little of SQL and NoSQL too.
+## Technologies and Languages I Work With
+Here's a small overview on the languages I've worked with. I've been using a lot of Go recently but I've usually liked to stick with C#.
 
-- C#
-- Python
-- SQL
-- MongoDB
-- JavaScript
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jolvera2001&theme=blueberry)
 
 Here are a few frameworks that I've worked with as well:
 
 - ASP.NET Core
-- .net MAUI
+- Gin
 - WPF
 - React
-- Flask
 - Azure app services
 - EF Core
-- Node.js
-
-I plan to try and come up with more projects and maybe redo some of my past projects as well, but I also still want to learn things like PyQT and more Flask or Django. There's still a lot to learn either way.
 
 ## Some Other Technologies
 This is more of a list of languages/technologies I've worked with that I've touched on briefly but never really continued with because I've never had the need to, or I just can't (swift specifically). A lot of these were still cool to use and I wish to really use them more in the future.
@@ -42,6 +34,8 @@ This is more of a list of languages/technologies I've worked with that I've touc
 - Firebase
 - Azure Blob Storage
 - Rust
+- Flutter
+- Dart
 
 <!---
 Jolvera2001/Jolvera2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
