@@ -23,10 +23,10 @@ Here are a few frameworks that I've worked with as well:
 
 - ASP.NET Core
 - Gin
-- WPF
 - React
-- Azure app services
+- Wails
 - EF Core
+- WPF
 
 ## Some Other Technologies
 This is more of a list of languages/technologies I've worked with that I've touched on briefly but never really continued with because I've never had the need to, or I just can't (swift specifically). A lot of these were still cool to use and I wish to really use them more in the future.
